@@ -1,4 +1,5 @@
-# kaggleComptetionTitanic
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Kaggle%20Comptetion&fontSize=90)
+
 > Titanic Accident Dataset from [Kaggle Dataset](https://www.kaggle.com/)
 >![](https://miro.medium.com/max/1024/0*KfHijq1bO1nDV5Dl.jpg)
 
